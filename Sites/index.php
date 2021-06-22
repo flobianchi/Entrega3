@@ -16,7 +16,7 @@
 
 Esta es la pagina Login
 
-<form id = 'caja' action="consultas/consulta1.php" method="post">
+<form id = 'caja' action="tienda.php" method="post">
       
       <input type="text" class="form-control" placeholder="Usuario" style="font-size:19px;" size = 15 name = 'comuna'>
       <br>
